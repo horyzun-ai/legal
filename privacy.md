@@ -174,6 +174,4 @@ Changes become effective when posted to the website with an updated effective da
 
 **Horyzun**
 
-Email: hello@horyzun.ai
-
 Website: https://horyzun.ai
