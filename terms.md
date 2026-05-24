@@ -223,6 +223,4 @@ Continued use of the Services constitutes acceptance of updated Terms.
 
 **Horyzun**
 
-Email: hello@horyzun.ai
-
 Website: https://horyzun.ai
